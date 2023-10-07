@@ -1,0 +1,18 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+}
+
+.filter,
+#remove-btn {
+  margin-block: 1em;
+}
+
+ul {
+  list-style: none;
+}
